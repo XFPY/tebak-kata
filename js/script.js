@@ -1,11 +1,11 @@
 // Daftar kata dan petunjuk
 const words = [
     //pertanyaan 1
-    { word: "selamat siang", hint: "Apa arti kata 'Konnichiwa' dalam bahasa Jepang?." },
+    { word: "selamat siang", hint: "Apa arti kata 'Konnichiwa' dalam bahasa Indonesia?." },
     //pertanyaan 2
-    { word: "selamat pagi", hint: "Apa arti kata 'Ohayou' dalam bahasa Jepang?." },
+    { word: "selamat pagi", hint: "Apa arti kata 'Ohayou' dalam bahasa Indonesia??." },
     //pertanyaan 3
-    { word: "selamat malam", hint: "Apa arti kata 'Konbanwa' dalam bahasa Jepang?." },
+    { word: "selamat malam", hint: "Apa arti kata 'Konbanwa' dalam bahasa Indonesia??." },
     //pertanyaan 4
     { word: "hiragana", hint: "Apa huruf Jepang yang digunakan untuk menulis kata-kata asli Jepang?" },
     //pertanyaan 5
