@@ -15,7 +15,7 @@ const words = [
     //pertanyaan 7
     { word: "mangga", hint: "Buah manis yang berwarna kuning." },
     //pertanyaan 8
-    { word: "raisha", hint: "Member JKT48 gen 10 Yang Lahir bulan Nopember"}
+    { word: "raisha", hint: "Member JKT48 gen 10 Yang Lahir bulan November"}
 
 ];
 
